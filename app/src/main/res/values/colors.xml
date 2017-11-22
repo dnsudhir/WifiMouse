@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#152d2d</color>
+    <color name="colorPrimaryDark">#ffffff</color>
+    <color name="colorAccent">#2c6269</color>
+    <color name="touchPad">#4c59a2ae</color>
+</resources>

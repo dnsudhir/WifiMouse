@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<selector xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <item>
+        <shape android:shape="line">
+            <corners android:radius="@dimen/activity_vertical_margin"/>
+            <stroke
+                android:color="@color/colorPrimary"
+                android:dashGap="4dip"
+                android:dashWidth="4dip" />
+            <gradient
+                android:endColor="@color/colorPrimary"
+                android:startColor="@color/colorAccent" />
+        </shape>
+
+    </item>
+
+</selector>
